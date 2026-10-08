@@ -37,3 +37,8 @@ hf_cache/
 .idea/
 .vscode/
 *.swp
+
+# Submission archives & bundles (avoid GitHub 100MB limit)
+*.zip
+lab21_*/
+Bản_sao_*.ipynb
